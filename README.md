@@ -1,21 +1,24 @@
-# [2024년 1학기 로봇공학]
+# [2024년 1학기] 로봇공학
 
 - **강의자** : 서울시립대학교 전자전기컴퓨터공학부 박경훈 교수(gyunghoon.park@uos.ac.kr)
 - **강의 학기** : 2024년 1학기
 
 ## 강의 교안
+- [Ch. 1. Introduction to Course](/Lecture%20Notes/2024-1_Robotics_CH00.pdf)
+- [Ch. 2. Configuration Space](/Lecture%20Notes/2024-1_Robotics_CH02.pdf)
+- [Ch. 3. Rigid-body Motion](/Lecture%20Notes/2024-1_Robotics_CH03.pdf)
+- [Ch. 4. Forward Kinematics](/Lecture%20Notes/2024-1_Robotics_CH04.pdf)
+- [Ch. 5. Velocity Kinematics](/Lecture%20Notes/2024-1_Robotics_CH05.pdf)
+- [Ch. 6. Inverse Kinematics](/Lecture%20Notes/2024-1_Robotics_CH06.pdf)
+- (TBA)
 
-## Robotics Toolbox for Python 실습
+## Robotics Toolbox for Python 예제
 
-본 교과목에서는 Peter Corke 교수님이 작성하신 "Robotics Toolbox for Python"을 이용한 다양한 실습을 진행합니다. 
+본 교과목에서는 교재 내용의 이해를 돕기 위해 [Peter Corke](https://petercorke.com/) 교수님이 개발하신 `Robotics Toolbox for Python`을 바탕으로 Python 환경에서 다양한 모의실험을 수행합니다. 
 
 실습 순서는 강의 내용과 대체로 동일하며, 파일은 아래와 같습니다. 
 
-
-
-
-
-- **Robotics Toolbox for Python 설치** (작성 중...)
+- **Robotics Toolbox for Python 설치** (TBA)
 - **Ch. 3. Rigid-body Motion**
   - [3-a. 2D Rigid-body Motion](/CH03/CH03_a_2DRigidBodyMotion.ipynb) 
   - [3-b. 3D Rigid-body Motion](/CH03/CH03_b_3DRigidBodyMotion.ipynb)
@@ -24,8 +27,9 @@
   - [4-b. Create a Robot Model](/CH04/CH04_b_CreateRobot.ipynb)
   - [4-c. Introduction to Swift](/CH04/CH04_c_IntroductionToSwift.ipynb)
   - [4-d. 2D Forward Kinematics](/CH04/CH04_d_2DForwardKinematics.ipynb) 
-  - [4-e. 3D Forward Kinematics](/CH04/CH04_e_3DForwardKinematics.ipynb) (작성 중...)
-- **Ch. 5. Velocity Kinematics** (작성 중...)
+  - [4-e. 3D Forward Kinematics](/CH04/CH04_e_3DForwardKinematics.ipynb) (TBA)
+- **Ch. 5. Velocity Kinematics** (TBA)
+- **Ch. 6. Inverse Kinematics** (TBA)
 
 
 **참고**
